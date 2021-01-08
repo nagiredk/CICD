@@ -1,0 +1,24 @@
+
+<html>
+<head>  this is sample website </head>
+	
+	<body>
+		<h1> Hi this is Sample HTML </h1>
+		<h2> Here's my sampl website </h2>
+		
+		<p> 
+			Full-Stack Web App Development.
+			High-Performance Enterprise Ready Solutions. Extensive knowledge of the latest technologies to build business-centric web applications. 
+			ISO 9001:2015 Certified. Cost-effective. 15 years experience. Amp Up Your Business.
+		</p>
+		
+		<ul> 
+			
+			<li> Apple </li>
+			<li> Banana </li>
+			<li> Orange </li>
+		</ul>
+		
+		
+	</body>
+</html>
